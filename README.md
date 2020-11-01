@@ -1,5 +1,5 @@
 # Memory-Game
-<p>A memory game project in Javascript </p>
+<p>A memory game project build in Javascript language,where the game is to match the similar emoji faces</p>
 
 <h2> Source </h2>
 -jQuery and DOM methods 
