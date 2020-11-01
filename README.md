@@ -6,6 +6,6 @@
 
 <h2> Output </h2>
 
-<img src="
+<img src="https://raw.githubusercontent.com/Rebel0504/Memory-Game/main/img3.jpg" />
 
 
